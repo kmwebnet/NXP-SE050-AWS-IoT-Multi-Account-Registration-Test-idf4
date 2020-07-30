@@ -43,6 +43,8 @@ replace definitions to your own in main.c
 
 char HostAddress[255] = "XXX.amazonaws.com";    
 
+If you need step by step usage, please check this [wiki](https://github.com/kmwebnet/NXP-SE050-AWS-IoT-Multi-Account-Registration-Test-idf4/wiki/How-to-make-this-test-work)  
+
 # Run this project
 
 just execute "Upload" on Platformio.   
